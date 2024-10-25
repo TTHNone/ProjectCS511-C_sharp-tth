@@ -1,4 +1,4 @@
-# C# Final Project for CS511 - Introduction to C#
+# C# Final Project of CS511 - Introduction to C#
 
 A project about replicate Facebook on C# language for CS511.
 
